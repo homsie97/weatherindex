@@ -1,0 +1,18 @@
+html { 
+	background-color:ccffff;
+}
+h1 {
+	font: 50px arial, sans-serif;
+	background-color: F0FFFF;
+}
+h2 {
+	font: 35px arial, sans-serif;
+	background-color: F0FFFF;
+}
+h3 {
+	font: 35px arial, sans-serif;
+}
+button {
+	border: 2px solid black;
+	font: 15px arial, sans-serif;
+}	
